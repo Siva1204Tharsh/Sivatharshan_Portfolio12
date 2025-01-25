@@ -4,6 +4,7 @@ import Image3 from "../../assets/03.intro to ML.png";
 import Image4 from "../../assets/04.Inter to ML.png";
 import Image5 from "../../assets/05.Intro to DL.png";
 import Image6 from "../../assets/06.Computer Vision.png";
+import Image7 from "../../assets/07.Time Series.png";
 
 export const Data = [
   {
@@ -44,7 +45,7 @@ export const Data = [
   },
   {
     id: 7,
-    image: Image1,
-    title: "Pandas",
+    image: Image7,
+    title: "Time Series",
   },
 ];
