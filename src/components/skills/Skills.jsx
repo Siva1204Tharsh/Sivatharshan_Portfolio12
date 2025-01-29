@@ -2,6 +2,7 @@ import React from "react";
 import "./skills.css";
 import DataScience from "./DataScience";
 import ArtificialIntelligence from "./ArtificialIntelligence";
+import CircleData from "./CircleData";
 
 const Skills = () => {
   return (
@@ -11,6 +12,7 @@ const Skills = () => {
       <div className="skills__container container grid">
         <DataScience />
         <ArtificialIntelligence />
+        <CircleData />
       </div>
     </section>
   );
