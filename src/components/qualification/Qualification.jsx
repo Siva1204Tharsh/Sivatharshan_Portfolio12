@@ -159,7 +159,7 @@ const Qualification = () => {
                 <h3 className="qualification__title">ABC</h3>
                 <span className="qualification__subtitle">abc</span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calender-alt"></i> ------
+                  <i className="uil uil-calender-alt"></i>------
                 </div>
               </div>
             </div>
