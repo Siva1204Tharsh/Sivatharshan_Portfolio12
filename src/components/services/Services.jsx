@@ -14,7 +14,7 @@ const Services = () => {
         <div className="services__content">
           <div>
             <i className="uil uil-web-grid services__icon"></i>
-            <h3 className="services__title">Data Analysis</h3>
+            <h3 className="services__title">Web Development</h3>
           </div>
           <span className="services__button" onClick={() => toggleTab(1)}>
             View More
@@ -32,31 +32,41 @@ const Services = () => {
                 onClick={() => toggleTab(0)}
                 className="uil uil-times services__close"
               ></i>
-              <h3 className="services__modal-title">Data Analyst</h3>
+              <h3 className="services__modal-title">Full Stack Development</h3>
               <p className="services__modal-description">
-                Service with more than 3 years of experience.Providing quality
-                work to clients and companies.
+                I build scalable, secure, and responsive full-stack applications
+                with modern technologies.
               </p>
               <ul className="services__modal-services grid">
                 <li className="services__modal-service">
                   <i class="uil uil-check-circle services__modal-icon"></i>
-                  <p className="services__modal-info">I can do this</p>
+                  <p className="services__modal-info">
+                    Frontend & Backend Development -✅
+                  </p>
                 </li>
                 <li className="services__modal-service">
                   <i class="uil uil-check-circle services__modal-icon"></i>
-                  <p className="services__modal-info">AI can do this</p>
+                  <p className="services__modal-info">
+                    Scalable & Secure Architectures -✅
+                  </p>
                 </li>
                 <li className="services__modal-service">
                   <i class="uil uil-check-circle services__modal-icon"></i>
-                  <p className="services__modal-info">I can do this</p>
+                  <p className="services__modal-info">
+                    API Development & Integration -✅
+                  </p>
                 </li>
                 <li className="services__modal-service">
                   <i class="uil uil-check-circle services__modal-icon"></i>
-                  <p className="services__modal-info">I can do this</p>
+                  <p className="services__modal-info">
+                    Database Design & Optimization -✅
+                  </p>
                 </li>
                 <li className="services__modal-service">
                   <i class="uil uil-check-circle services__modal-icon"></i>
-                  <p className="services__modal-info">I can do this</p>
+                  <p className="services__modal-info">
+                    Responsive & Mobile-Friendly UI -✅
+                  </p>
                 </li>
               </ul>
             </div>
@@ -64,8 +74,8 @@ const Services = () => {
         </div>
         <div className="services__content">
           <div>
-            <i className="uil uil-arrow services__icon"></i>
-            <h3 className="services__title">ML Development</h3>
+            <i className="uil uil-chart-line services__icon"></i>
+            <h3 className="services__title">Data Science</h3>
           </div>
           <span className="services__button" onClick={() => toggleTab(2)}>
             View More
@@ -85,29 +95,39 @@ const Services = () => {
               ></i>
               <h3 className="services__modal-title">ML Engineer</h3>
               <p className="services__modal-description">
-                Service with more than 3 years of experience.Providing quality
-                work to clients and companies.
+                I analyze complex data to extract insights, build predictive
+                models, and drive data-driven decisions.
               </p>
               <ul className="services__modal-services grid">
                 <li className="services__modal-service">
                   <i class="uil uil-check-circle services__modal-icon"></i>
-                  <p className="services__modal-info">I can do this</p>
+                  <p className="services__modal-info">
+                    Data Cleaning & Preprocessing -✅
+                  </p>
                 </li>
                 <li className="services__modal-service">
                   <i class="uil uil-check-circle services__modal-icon"></i>
-                  <p className="services__modal-info">AI can do this</p>
+                  <p className="services__modal-info">
+                    Exploratory Data Analysis (EDA) -✅
+                  </p>
                 </li>
                 <li className="services__modal-service">
                   <i class="uil uil-check-circle services__modal-icon"></i>
-                  <p className="services__modal-info">I can do this</p>
+                  <p className="services__modal-info">
+                    Machine Learning & Predictive Modeling -✅
+                  </p>
                 </li>
                 <li className="services__modal-service">
                   <i class="uil uil-check-circle services__modal-icon"></i>
-                  <p className="services__modal-info">I can do this</p>
+                  <p className="services__modal-info">
+                    Statistical Analysis & Visualization -✅
+                  </p>
                 </li>
                 <li className="services__modal-service">
                   <i class="uil uil-check-circle services__modal-icon"></i>
-                  <p className="services__modal-info">I can do this</p>
+                  <p className="services__modal-info">
+                    Data-Driven Decision Making -✅
+                  </p>
                 </li>
               </ul>
             </div>
@@ -115,8 +135,8 @@ const Services = () => {
         </div>
         <div className="services__content">
           <div>
-            <i className="uil uil-edit services__icon"></i>
-            <h3 className="services__title">AI Development</h3>
+            <i className="uil uil-robot services__icon"></i>
+            <h3 className="services__title">AI Solution</h3>
           </div>
           <span className="services__button" onClick={() => toggleTab(3)}>
             View More
@@ -136,29 +156,40 @@ const Services = () => {
               ></i>
               <h3 className="services__modal-title">AI Developer</h3>
               <p className="services__modal-description">
-                Service with more than 3 years of experience.Providing quality
-                work to clients and companies.
+                I develop custom AI models, including NLP, computer vision, and
+                automation solutions.
               </p>
               <ul className="services__modal-services grid">
                 <li className="services__modal-service">
                   <i class="uil uil-check-circle services__modal-icon"></i>
-                  <p className="services__modal-info">I can do this</p>
+                  <p className="services__modal-info">
+                    Custom AI Model Development -✅
+                  </p>
                 </li>
                 <li className="services__modal-service">
                   <i class="uil uil-check-circle services__modal-icon"></i>
-                  <p className="services__modal-info">AI can do this</p>
+                  <p className="services__modal-info">
+                    Deep Learning & Neural Networks -✅
+                  </p>
                 </li>
                 <li className="services__modal-service">
                   <i class="uil uil-check-circle services__modal-icon"></i>
-                  <p className="services__modal-info">I can do this</p>
+                  <p className="services__modal-info">
+                    Natural Language Processing (NLP) -✅
+                  </p>
                 </li>
                 <li className="services__modal-service">
                   <i class="uil uil-check-circle services__modal-icon"></i>
-                  <p className="services__modal-info">I can do this</p>
+                  <p className="services__modal-info">
+                    {" "}
+                    Computer Vision & Image Processing -✅
+                  </p>
                 </li>
                 <li className="services__modal-service">
                   <i class="uil uil-check-circle services__modal-icon"></i>
-                  <p className="services__modal-info">I can do this</p>
+                  <p className="services__modal-info">
+                    AI-Powered Automation -✅
+                  </p>
                 </li>
               </ul>
             </div>
