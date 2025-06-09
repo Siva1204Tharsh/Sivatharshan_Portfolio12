@@ -46,9 +46,7 @@ const Qualification = () => {
             <div className="qualification__data">
               <div>
                 <h3 className="qualification__title">G.C.E. (A/L)</h3>
-                <span className="qualification__subtitle">
-                  J/MHC -School
-                </span>
+                <span className="qualification__subtitle">J/MHC -School</span>
                 <div className="qualification__calender">
                   <i className="uil uil-calender-alt"></i> 2017 - 2019
                 </div>
