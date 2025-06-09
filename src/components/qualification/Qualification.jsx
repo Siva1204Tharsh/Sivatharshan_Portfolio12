@@ -47,7 +47,7 @@ const Qualification = () => {
               <div>
                 <h3 className="qualification__title">G.C.E. (A/L)</h3>
                 <span className="qualification__subtitle">
-                  J/MHC -Institute
+                  J/MHC -School
                 </span>
                 <div className="qualification__calender">
                   <i className="uil uil-calender-alt"></i> 2017 - 2019
@@ -66,7 +66,7 @@ const Qualification = () => {
               </div>
               <div>
                 <h3 className="qualification__title">BSc(CST)</h3>
-                <span className="qualification__subtitle">UWU -Institute</span>
+                <span className="qualification__subtitle">UWU -University</span>
                 <div className="qualification__calender">
                   <i className="uil uil-calender-alt"></i> 2021 - 2025
                 </div>
@@ -75,10 +75,10 @@ const Qualification = () => {
 
             <div className="qualification__data">
               <div>
-                <h3 className="qualification__title">ABC</h3>
-                <span className="qualification__subtitle">abc -Institute</span>
+                <h3 className="qualification__title">AI & Data Science</h3>
+                <span className="qualification__subtitle">NoviTech R&D</span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calender-alt"></i> 2025 - Present
+                  <i className="uil uil-calender-alt"></i>Nov2024-Apr2025
                 </div>
               </div>
               <div>
@@ -128,10 +128,10 @@ const Qualification = () => {
                 <span className="qualification__line"></span>
               </div>
               <div>
-                <h3 className="qualification__title">AI Intern</h3>
-                <span className="qualification__subtitle">NoviTech</span>
+                <h3 className="qualification__title">AI/ML Engineer Intern</h3>
+                <span className="qualification__subtitle">FAITE</span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calender-alt"></i> (Jun - Nov)2024
+                  <i className="uil uil-calender-alt"></i>Currently
                 </div>
               </div>
             </div>
